@@ -1,1 +1,2 @@
 # streak
+day 1
