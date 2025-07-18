@@ -8,3 +8,4 @@ day 6
 day 7
 
 day 2
+streak
